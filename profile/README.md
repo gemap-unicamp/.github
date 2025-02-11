@@ -1,6 +1,6 @@
 ## # Grupo de Estudos em Macroeconomia Aplicada (GEMAP)
 
-![](https://imgur.com/zsqVwBq)
+![]([https://imgur.com/zsqVwBq.png)
 
 O Grupo de Estudos em Macroeconomia Aplicada (GEMAP), sediado no Instituto de Economia da Universidade Estadual de Campinas (IE/UNICAMP), propõe-se a compreender a macroeconomia a partir de abordagens teóricas e empíricas, considerando suas diversas dimensões: produtiva, distributiva, ambiental, monetário-financeira, inflacionária, entre outras.
 
